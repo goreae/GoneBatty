@@ -1,0 +1,16 @@
+[
+{
+  "modid": "batty",
+  "name": "Gone Batty",
+  "description": "Learning mod involving vampire bats and blood.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["goreae"],
+  "credits": "The Forge and FML guys, for making forge and making it easy and stuff",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

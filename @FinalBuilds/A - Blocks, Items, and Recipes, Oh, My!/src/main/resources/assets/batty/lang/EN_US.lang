@@ -1,0 +1,16 @@
+itemGroup.tabBatBlocks=Batty
+tile.batStone.name=Bat Stone
+tile.vampStone.name=Vamp Stone
+tile.bloodStone.name=Blood Stone
+tile.batBrick.name=Bat Bricks
+tile.vampBrick.name=Vamp Bricks
+tile.bloodBrick.name=Blood Bricks
+tile.batSand.name=Bat Sand
+tile.vampSand.name=Vamp Sand
+tile.bloodSand.name=Blood Sand
+tile.batGlass.name=Bat Glass
+tile.vampGlass.name=Vamp Glass
+tile.bloodGlass.name=Blood glass
+
+item.batFang.name=Bat Fang
+item.batClaw.name=Bat Claw
