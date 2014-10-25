@@ -1,0 +1,60 @@
+[16:47:28] [main/INFO]: Setting user: Player551
+[16:47:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:47:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Gone Batty
+[16:47:41] [Sound Library Loader/INFO]: Sound engine started
+[16:47:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:47:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:47:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Gone Batty
+[16:47:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:47:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:47:45] [Sound Library Loader/INFO]: Sound engine started
+[16:47:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:47:55] [Server thread/INFO]: Generating keypair
+[16:47:56] [Server thread/INFO]: Converting map!
+[16:47:56] [Server thread/INFO]: Scanning folders...
+[16:47:56] [Server thread/INFO]: Total conversion count is 0
+[16:47:57] [Server thread/INFO]: Preparing start region for level 0
+[16:47:58] [Server thread/INFO]: Preparing spawn area: 9%
+[16:47:59] [Server thread/INFO]: Preparing spawn area: 22%
+[16:48:00] [Server thread/INFO]: Preparing spawn area: 33%
+[16:48:01] [Server thread/INFO]: Preparing spawn area: 47%
+[16:48:02] [Server thread/INFO]: Preparing spawn area: 58%
+[16:48:03] [Server thread/INFO]: Preparing spawn area: 68%
+[16:48:04] [Server thread/INFO]: Preparing spawn area: 82%
+[16:48:05] [Server thread/INFO]: Preparing spawn area: 93%
+[16:48:05] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:48:06] [Server thread/INFO]: Player551[local:E:dae5a6aa] logged in with entity id 36 at (-77.5, 64.0, 246.5)
+[16:48:06] [Server thread/INFO]: Player551 joined the game
+[16:48:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[16:48:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[16:48:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 125 ms
+[16:48:16] [Server thread/INFO]: Player551 has just earned the achievement [Taking Inventory]
+[16:48:16] [Client thread/INFO]: [CHAT] Player551 has just earned the achievement [Taking Inventory]
+[16:48:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[16:48:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[16:48:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 134 ms
+[16:48:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[16:48:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 134 ms
+[16:48:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 138 ms
+[16:48:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 250 ms
+[16:48:35] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[16:48:45] [Server thread/INFO]: [Player551: Given [Bat Claw] * 1 to Player551]
+[16:48:45] [Client thread/INFO]: [CHAT] Given [Bat Claw] * 1 to Player551
+[16:48:46] [Server thread/INFO]: [Player551: Given [Bat Fang] * 1 to Player551]
+[16:48:46] [Client thread/INFO]: [CHAT] Given [Bat Fang] * 1 to Player551
+[16:48:50] [Server thread/INFO]: [Player551: Given [Item Frame] * 1 to Player551]
+[16:48:50] [Client thread/INFO]: [CHAT] Given [Item Frame] * 1 to Player551
+[16:48:52] [Server thread/INFO]: [Player551: Given [Item Frame] * 1 to Player551]
+[16:48:52] [Client thread/INFO]: [CHAT] Given [Item Frame] * 1 to Player551
+[16:49:12] [Client thread/INFO]: [CHAT] Saved screenshot as 2014-10-24_16.49.12.png
+[16:49:18] [Server thread/INFO]: Saving and pausing game...
+[16:49:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:49:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:49:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:49:20] [Client thread/INFO]: Stopping!
+[16:49:20] [Server thread/INFO]: Stopping server
+[16:49:20] [Server thread/INFO]: Saving players
+[16:49:20] [Server thread/INFO]: Saving worlds
+[16:49:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:49:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:49:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
